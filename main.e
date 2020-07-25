@@ -1,21 +1,3 @@
-//figure out how to display images on the VGA
-//SD card driver (FUUUUUUUUUUUUCK yes)
-//create images:
-//  start screen (Move Master, press any key, team logo, names)
-//  (menu screen - later?)
-//  game directions screen (follow the pattern closely?)
-//  input arrows screen (repeat the pattern?)
-//  arrows themselves (up, right, down, left)
-//  (maybe a level counter?)
-//  game over
-//implement displaying arrows on input
-//finish game over screen
-
-//stretch goals:
-//implement menu screen?
-//new modes? (speedrun, backwards, etc.)
-//sound?
-
 //bin file image order (with addresses):
 //up_arrow      (0)
 //right_arrow   (307200)
@@ -336,13 +318,6 @@ correct_arr     -1
 
 correct_i   0       //index of correct array
 correct_l   100     //length of correct array
-
-
-roses_are_red                   'E'
-violets_are_blue                '1'
-my_mental_state_is_in_shambles  '0'
-and_my_motivation_too           '0'
-
 
 
 
